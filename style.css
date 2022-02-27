@@ -1,0 +1,58 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    background-color: lightgray;
+    
+}
+.page{
+    background-image: url(images/kadi.profile.jpeg);
+    border: 10px;
+    background-position: 50px;
+    flex-direction: row;
+    background-size: 30px;
+    height: min-content;
+    padding: 20px 10px;
+
+}
+#title{
+    background-image: url(images/art.jpg);
+    height:160vh;
+    flex-direction: column;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    
+}
+.button{
+    text-align: center;
+    padding:10px 5px;
+    background-position: center;
+    background-color: deeppink;
+    color: black;
+    margin: 50px;
+    border-radius: center;
+}
+.section-a{
+    background-color: deeppink;
+    background-position: center;
+    
+   
+  
+}
+.section-b{
+background-color: lightpink;
+text-align: center;
+color: black;
+justify-content: center;
+
+}
+.section-c{
+    background-color: lightcoral;
+    text-align: center;
+   
+}
+
+
